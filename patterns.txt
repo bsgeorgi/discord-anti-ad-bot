@@ -1,0 +1,11 @@
+https?://\S+
+www\.\S+
+\S+\.(com|org|net|co|io|me|xyz|gov|edu|tv|info|ai|club|shop|online|app|biz|site|ly)\b
+https?://(www\.)?discord\.(?:gg|com/invite)/[^\s]+
+bit\.ly/[^\s]+
+t\.co/[^\s]+
+telegram\.me/[^\s]+
+tinyurl\.com/[^\s]+
+youtu\.be/[^\s]+
+
+(?:come\s+)?(play|try|join|check\sout|check) my (new|awesome|amazing|incredible) (game|app|server)
